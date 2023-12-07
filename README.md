@@ -4,7 +4,7 @@ The company I want to do the case study about is "Highradius"
 ## Overview and Origin
 
 * Name of company
-- The name of the comapany is Highradius.
+<p>The name of the comapany is Highradius.</p>
 
 * When was the company incorporated?
 - The company was established in 2006
